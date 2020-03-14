@@ -1,0 +1,60 @@
+#brandname {
+    width: 300px;
+    color: whitesmoke;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.container{
+    background-color: whitesmoke;
+    margin-top: 150px;
+    margin-bottom: 90px;
+}
+
+a {
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Acme', sans-serif;
+}
+
+.footer {
+    height: 60px;
+    background-color: midnightblue;
+}
+
+#header {
+    background-color: midnightblue;
+    margin-bottom: 10px;
+}
+
+.contact-title {
+    text-decoration: underline;
+}
+
+.contact-list {
+    line-height: 25%;
+}
+
+.nav-link {
+    color: white;
+}
+
+#footer-links {
+    color: whitesmoke;
+}
+
+body {
+    background: url("../images/prism.png");
+}
+
+.cardText {
+    color: whitesmoke;
+    font-weight: bold;
+}
