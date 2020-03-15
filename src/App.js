@@ -39,6 +39,8 @@ function App() {
                 imgSrc="https://issaissa-issa.github.io/Portfolio/assets/images/quiz.gif"
               />
             </Col>
+            </Row>
+            <Row>
             <Col>
               <Card
                 name="Weather App"

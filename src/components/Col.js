@@ -3,7 +3,7 @@ import './style.css';
 
 const Col = ({ children }) => {
     return (
-        <div class="w3-third">
+        <div class="w3-half">
             {children}
         </div>
     )
