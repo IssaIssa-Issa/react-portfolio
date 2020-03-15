@@ -47,6 +47,14 @@ function App() {
                 imgSrc="https://issaissa-issa.github.io/Portfolio/assets/images/weather.PNG"
               />
             </Col>
+            <Col>
+              <Card
+                name="Nuggets"
+                firstHref="https://github.com/IssaIssa-Issa/project3"
+                secondHref="https://nuggets-2020.herokuapp.com/"
+                imgSrc="https://issaissa-issa.github.io/Portfolio/assets/images/nuggets.png"
+              />
+            </Col>
           </Row>
         </ProjectSection>
         <AboutSection />

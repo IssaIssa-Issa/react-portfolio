@@ -20,7 +20,7 @@ const AboutSection = () => {
                 <p><b>phone: </b>(651) 361-0299</p>
                 <p><b>GitHub Profile Link: </b><a href="https://github.com/IssaIssa-Issa">github.com/IssaIssa-Issa</a></p>
                 <p><b>LinkedIn Profile Link: </b><a href="https://www.linkedin.com/in/issa-issa-06159718b/">linkedin.com/in/IssaIssa-Issa</a></p>
-                <p><b>My Résumé: </b><a href="https://issaissa-issa.github.io/Portfolio/assets/resume.pdf">Read It Here</a></p>
+                <p><b>My Résumé: </b><a href="https://docs.google.com/document/d/1kpleu7VVHIY9JiSGJHM_w0vjOTDaDrnzcF6DR1gk3U0/edit?usp=sharing">Read It Here</a></p>
 
             </div>
         </div>
