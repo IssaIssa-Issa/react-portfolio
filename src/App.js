@@ -57,6 +57,14 @@ function App() {
                 imgSrc="https://issaissa-issa.github.io/Portfolio/assets/images/nuggets.png"
               />
             </Col>
+            <Col>
+              <Card
+                name="Daily Planner"
+                firstHref="https://github.com/IssaIssa-Issa/IssaIssa-Issa.github.io/tree/master/homework5"
+                secondHref="https://issaissa-issa.github.io/homework5/index.html"
+                imgSrc="https://github.com/IssaIssa-Issa/IssaIssa-Issa.github.io/blob/master/homework5/assets/images/screenshot.png"
+              />
+            </Col>
           </Row>
         </ProjectSection>
         <AboutSection />
